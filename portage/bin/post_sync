@@ -1,0 +1,13 @@
+#!/bin/sh
+# Copyright 2006-2007 Gentoo Foundation
+# Distributed under the terms of the GNU General Public License v2
+
+if [ -d /etc/portage/postsync.d/ ]; then
+	for f in /etc/portage/postsync.d/* ; do
+		if [ -x ${f} ] ; then
+			${f}
+		fi
+	done
+else
+	:
+fi

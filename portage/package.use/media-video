@@ -1,0 +1,3 @@
+media-video/mplayer cpudetection amrnb amrwb xvmc tga pnm xanim
+media-video/ffmpeg  amr
+media-video/smplayer

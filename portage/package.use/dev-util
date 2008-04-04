@@ -1,0 +1,3 @@
+dev-util/subversion svnserve
+dev-util/kdevelop   php sql subversion
+dev-util/git        doc
