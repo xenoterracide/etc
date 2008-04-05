@@ -1,6 +1,7 @@
 # ServerAdmin: Your address, where problems with the server should be
 # e-mailed.  This address appears on some server-generated pages, such
 # as error documents.  e.g. admin@your-domain.com
+ServerName localhost:80
 ServerAdmin root@localhost
 
 # DocumentRoot: The directory out of which you will serve your
