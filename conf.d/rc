@@ -85,7 +85,7 @@ RC_VERBOSE="no"
 # app-admin/showconsole package for this to work.  Note that this probably
 # won't work correctly with boot splash.
 
-RC_BOOTLOG="no"
+RC_BOOTLOG="yes"
 
 # Set to "yes" if you want to benchmark system boot with bootchart.
 # You'll need to emerge the app-benchmarks/bootchart package for this to work.
