@@ -58,7 +58,9 @@
 # The parameters are passed in a bash array variable,
 # the variable name is mysql_slot_0_[server-num]
 # "server-num" is an optional number used to start multiple servers
-#
+mysql_slot_0=(
+	"nice=15"
+)
 # Examples:
 #
 # start a default server with default options:
