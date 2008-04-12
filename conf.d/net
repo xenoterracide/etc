@@ -3,5 +3,7 @@
 # please review /etc/conf.d/net.example and save your configuration
 # in /etc/conf.d/net (this file :]!).
 modules_force=( "iproute2" "dhcpcd" )
-config_eth1=( "dhcp nodns" )
+config_eth1=( "dhcp" )
+dhcp_eth1=( "nodns" )
 routes_eth1=( "default via 192.168.0.1" )
+dns_servers_eth1=( "127.0.0.1 208.67.222.222 208.67.220.220" )
