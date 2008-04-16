@@ -1,0 +1,4 @@
+
+# Sensitive data, such as database connection info, should
+# be stored in /etc/mail/spamassassin/secrets.cf with
+# appropriate permissions
