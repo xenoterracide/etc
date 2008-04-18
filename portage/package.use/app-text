@@ -1,1 +1,1 @@
-app-text/poppler-bindings gtk
+app-text/poppler-bindings gtk -qt4
