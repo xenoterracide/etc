@@ -1,3 +1,4 @@
+>=net-libs/xulrunner-1.9_beta5
 >=dev-libs/nss-3.12_beta3
 >=dev-libs/nspr-4.7.1_beta2
 www-client/mozilla-firefox
