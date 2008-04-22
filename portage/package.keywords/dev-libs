@@ -1,2 +1,1 @@
-dev-libs/soprano **
-dev-libs/liblazy
+>=dev-libs/nspr-4.7.1_beta2
