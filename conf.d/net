@@ -2,7 +2,6 @@
 # scripts in /etc/init.d.  To create a more complete configuration,
 # please review /etc/conf.d/net.example and save your configuration
 # in /etc/conf.d/net (this file :]!).
-modules_force=( "iproute2" "dhcpcd" )
 config_eth0=( "dhcp" )
 dhcp_eth0=( "-t 1" )
 config_eth1=( "dhcp" )
