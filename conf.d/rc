@@ -58,7 +58,7 @@ RC_PLUG_SERVICES="!net.eth0"
 #  yes   - For this ALL network interfaces MUST be up for the 'net' service to
 #          be considered up.
 
-RC_NET_STRICT_CHECKING="no"
+RC_NET_STRICT_CHECKING="lo"
 
 # RC_DOWN_INTERFACE allows you to specify if RC will bring the interface
 # completely down when it stops. The default is yes, but there are some
