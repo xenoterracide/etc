@@ -1,0 +1,11 @@
+#%PAM-1.0
+
+auth     required pam_unix.so nullok
+auth     required pam_shells.so
+auth     required pam_nologin.so
+auth     required pam_env.so
+account  required pam_unix.so
+password required pam_cracklib.so difok=3 retry=3 minlen=8 dcredit=-2 ocredit=-2 use_authtok
+password required pam_unix.so shadow md5
+session  required pam_unix.so
+session  required pam_limits.so
