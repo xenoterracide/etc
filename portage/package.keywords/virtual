@@ -1,2 +1,4 @@
 virtual/postgresql
 virtual/postgresql-libs
+virtual/postgresql-base
+virtual/postgresql-server
