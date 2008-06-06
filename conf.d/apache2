@@ -40,6 +40,12 @@ APACHE2_OPTS="-D USERDIR -D DEFAULT_VHOST -D INFO -D LANGUAGE -D PHP5"
 # via them will result in Apache failing to start
 # YOU HAVE BEEN WARNED.
 
+# PID file
+#PIDFILE=/var/run/apache2.pid
+
+# timeout for startup/shutdown checks
+#TIMEOUT=10
+
 # ServerRoot setting
 #SERVERROOT=/usr/lib/apache2
 
