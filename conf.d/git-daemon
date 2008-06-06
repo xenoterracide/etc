@@ -9,4 +9,9 @@
 #   --export-all  --- Exports all repositories
 #   --port=XXXX   --- Starts in port XXXX instead of 9418
 #
-GITDAEMON_OPTS="--syslog"
+GITDAEMON_OPTS="
+	--detach
+	--syslog
+	--user=git
+	--group=git
+	--base-path=/srv/git/"
