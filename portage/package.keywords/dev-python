@@ -1,2 +1,4 @@
 dev-python/pygments
 dev-python/snakeoil
+dev-python/psycopg
+dev-python/django
