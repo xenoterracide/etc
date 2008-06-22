@@ -36,4 +36,3 @@ WAIT_FOR_CLEANUP=10
 # this can be done here.
 # Example:
 #   export R_HOME="/usr/lib/R"
-
