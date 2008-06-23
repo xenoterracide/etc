@@ -1,5 +1,3 @@
-dev-db/postgresql
-dev-db/libpq
 kde-base/kdebase-meta
 kde-base/kpersonalizer
 kde-base/kdelibs

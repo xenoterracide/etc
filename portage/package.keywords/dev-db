@@ -1,2 +1,2 @@
-dev-db/postgresql
-dev-db/libpq
+dev-db/postgresql-server
+dev-db/postgresql-base
