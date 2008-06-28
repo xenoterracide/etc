@@ -43,4 +43,4 @@ PIDFILE="/var/run/spamd.pid"
 # SAPMD_NICELEVEL let's you set the 'nice'ness of the running 
 # spamd process
 
-# SPAMD_NICELEVEL=5
+SPAMD_NICELEVEL=19
