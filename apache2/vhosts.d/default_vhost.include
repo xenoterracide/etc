@@ -36,6 +36,13 @@ DocumentRoot "/var/www/localhost/htdocs"
 	Allow from all
 </Directory>
 
+<Directory /var/www/localhost/htdocs/bugzilla>
+	AddHandler cgi-script .cgi
+	Options +Indexes +ExecCGI
+	DirectoryIndex index.cgi
+	AllowOverride Limit
+</Directory>
+
 <IfModule alias_module>
 	# Redirect: Allows you to tell clients about documents that used to
 	# exist in your server's namespace, but do not anymore. The client
