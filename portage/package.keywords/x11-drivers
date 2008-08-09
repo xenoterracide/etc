@@ -1,2 +1,4 @@
 x11-drivers/xf86-input-keyboard
 x11-drivers/xf86-video-ati
+x11-drivers/xf86-input-mouse
+x11-drivers/xf86-input-evdev
