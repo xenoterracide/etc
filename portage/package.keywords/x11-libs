@@ -2,3 +2,16 @@ x11-libs/cairo
 x11-libs/pixman
 x11-libs/libXrender
 x11-libs/xtrans
+x11-libs/qt-qt3support
+x11-libs/qt-gui
+x11-libs/qt-dbus
+x11-libs/qt-script
+x11-libs/qt-core
+x11-libs/qt-sql
+x11-libs/qt-svg
+x11-libs/qt-opengl
+x11-libs/qt-test
+x11-libs/qt-webkit
+x11-libs/qt
+x11-libs/qt-assistant
+x11-libs/qt-xmlpatterns
