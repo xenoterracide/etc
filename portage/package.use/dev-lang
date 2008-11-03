@@ -1,3 +1,2 @@
 dev-lang/python tk
-dev-lang/perl ithreads
 dev-lang/php -cli suhosin
