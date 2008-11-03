@@ -119,7 +119,7 @@ application/wita
 application/wordperfect				wpd
 application/wordperfect5.1			wp5
 application/x400-bp
-application/xhtml+xml				xhtml xht pxht
+application/xhtml+xml				xhtml xht
 application/xml					xml xsl
 application/xml-dtd
 application/xml-external-parsed-entity
