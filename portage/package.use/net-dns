@@ -1,1 +1,1 @@
-net-dns/avahi mdnsresponder-compat
+net-dns/avahi mdnsresponder-compat qt3 dbus
