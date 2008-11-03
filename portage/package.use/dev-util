@@ -1,3 +1,2 @@
-dev-util/subversion svnserve
-dev-util/kdevelop   php sql subversion
-dev-util/git        doc tk gtk subversion mozsha1
+dev-util/kdevelop   php sql
+dev-util/git        doc tk gtk mozsha1
