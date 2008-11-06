@@ -20,11 +20,11 @@
 /dev/sda1		/		ext3		noatime		0 1
 /dev/sda2               /var            reiserfs notail,noatime,nodev   0 2
 /dev/sda5               /home           ext3            noatime,nodev   0 2
-/dev/hdb4		none		swap		sw		0 0
+#/dev/hdb4		none		swap		sw		0 0
 /dev/sda6		none            swap		sw              0 0
-/dev/hdb1		/mnt/newhd	ext3		noatime,nodev   0 2
-/dev/hdb2		/mnt/gentoo	ext3		noatime		0 2
-/dev/hdb3		/mnt/gentoo/var reiserfs	noatime		0 2
+#/dev/hdb1		/mnt/newhd	ext3		noatime,nodev   0 2
+#/dev/hdb2		/mnt/gentoo	ext3		noatime		0 2
+#/dev/hdb3		/mnt/gentoo/var reiserfs	noatime		0 2
 
 none            /tmp tmpfs noatime,nodev,nosuid,noexec,size=100m        0 0
 none            /var/tmp/portage tmpfs noatime,nodev,nosuid             0 0
