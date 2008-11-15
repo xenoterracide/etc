@@ -1,3 +1,15 @@
+kde-base/libkipi
+app-pda/libopensync
+kde-base/ktimetracker
+kde-base/kdemaildir
+kde-base/kitchensync
+kde-base/kleopatra
+kde-base/kdepim-icons
+kde-base/akonadi
+kde-base/kdepim-wizards
+kde-base/kjots
+kde-base/knode
+kde-base/kdepim-meta
 kde-base/kwallet
 kde-base/kdegraphics-strigi-analyzer
 kde-base/kdepim-strigi-analyzer
