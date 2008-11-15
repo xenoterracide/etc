@@ -1,3 +1,4 @@
->=net-libs/xulrunner-1.9_beta5
+net-libs/libotr
+net-libs/xulrunner
 net-libs/decibel
 net-libs/webkit-gtk
