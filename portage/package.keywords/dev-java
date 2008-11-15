@@ -1,2 +1,8 @@
+dev-java/ehcache
+dev-java/sun-jacc-api
+dev-java/cglib
+dev-java/asm
+dev-java/oscache
+dev-java/hibernate
 dev-java/json-simple
 dev-java/swt
