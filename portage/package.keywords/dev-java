@@ -1,3 +1,6 @@
+dev-java/eclipse-ecj
+dev-java/ant-eclipse-ecj
+dev-java/junit
 dev-java/ehcache
 dev-java/sun-jacc-api
 dev-java/cglib
