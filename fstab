@@ -26,7 +26,7 @@
 #/dev/hdb2		/mnt/gentoo	ext3		noatime		0 2
 #/dev/hdb3		/mnt/gentoo/var reiserfs	noatime		0 2
 
-none            /tmp tmpfs noatime,nodev,nosuid,noexec,size=100m        0 0
+none            /tmp tmpfs noatime,nodev,nosuid,noexec,size=500m        0 0
 none            /var/tmp/portage tmpfs noatime,nodev,nosuid             0 0
 proc                    /proc           proc            defaults        0 0
 
