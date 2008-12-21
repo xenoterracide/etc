@@ -1,7 +1,0 @@
-dev-libs/libzip
-dev-libs/glib
->=dev-libs/nspr-4.7.1_beta2
->=dev-libs/nss-3.12_beta3
-dev-libs/soprano
-dev-libs/rasqal
-dev-libs/redland
