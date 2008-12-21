@@ -1,0 +1,4 @@
+app-emulation/vmware-modules
+app-emulation/vmware-server
+app-emulation/kvm
+app-emulation/wine

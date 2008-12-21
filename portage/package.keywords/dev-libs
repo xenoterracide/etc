@@ -1,0 +1,4 @@
+dev-libs/glib
+dev-libs/nss
+dev-libs/nspr
+dev-libs/soprano
