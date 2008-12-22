@@ -1,2 +1,3 @@
+dev-util/git threads mozsha1
 dev-util/eclipse-sdk -opengl cairo
 dev-util/catalyst ccache
