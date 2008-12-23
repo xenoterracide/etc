@@ -1,3 +1,4 @@
+dev-libs/libedit
 dev-libs/glib
 dev-libs/nss
 dev-libs/nspr
