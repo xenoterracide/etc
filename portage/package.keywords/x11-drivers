@@ -1,3 +1,4 @@
+x11-drivers/xf86-video-nv
 x11-drivers/xf86-video-intel
 x11-drivers/xf86-input-mouse
 x11-drivers/xf86-input-evdev
