@@ -1,12 +1,6 @@
-# /etc/conf.d/bootmisc
+# List of /tmp directories we should clean up
+wipe_tmp_dirs="/tmp"
 
-# Put a nologin file in /etc to prevent people from logging in before
-# system startup is complete
-
-DELAYLOGIN="no"
-
-
-# Should we completely wipe out /tmp or just selectively remove known
+# Should we wipe the tmp paths completely or just selectively remove known
 # locks / files / etc... ?
-
-WIPE_TMP="no"
+wipe_tmp="NO"

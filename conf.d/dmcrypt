@@ -19,6 +19,12 @@
 # partition is LUKS or not. No mkfs is run unless you specify a makefs
 # option.
 
+# Global options:
+#----------------
+
+# Max number of checks to perform (1 per second)
+#dmcrypt_max_timeout=120
+
 # Arguments:
 #-----------
 # target=<name>                      == Mapping name for partition.
