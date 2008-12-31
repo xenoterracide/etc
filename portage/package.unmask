@@ -1,2 +1,3 @@
+sys-apps/portage
 virtual/mysql
 dev-db/mysql-community
