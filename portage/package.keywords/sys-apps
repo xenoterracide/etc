@@ -1,3 +1,6 @@
+sys-apps/hal
+sys-apps/baselayout
+sys-apps/openrc
 sys-apps/iproute2
 sys-apps/portage
 sys-apps/pkgcore
