@@ -1,2 +1,3 @@
 virtual/mysql
 virtual/postgresql-server
+virtual/postgresql-base
