@@ -1,1 +1,2 @@
-virtual/perl-MIME-Base64
+=dev-lang/perl-5.8.8
+=sys-devel/libperl-5.8.8
