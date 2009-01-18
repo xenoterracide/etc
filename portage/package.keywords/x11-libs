@@ -1,3 +1,4 @@
+x11-libs/libXi
 x11-libs/gtk+
 x11-libs/libXft
 x11-libs/libxkbfile
