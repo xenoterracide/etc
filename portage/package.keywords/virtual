@@ -1,3 +1,5 @@
+virtual/perl-Digest-MD5
+virtual/perl-MIME-Base64
 virtual/mysql
 virtual/postgresql-server
 virtual/postgresql-base
