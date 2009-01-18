@@ -1,4 +1,4 @@
 dev-util/subversion -dso
-dev-util/git threads mozsha1 subversion
+dev-util/git threads mozsha1 subversion cvs
 dev-util/eclipse-sdk -opengl cairo
 dev-util/catalyst ccache
