@@ -20,7 +20,7 @@ none		/tmp		tmpfs	noatime,nodev,noexec,nosuid	0 0
 /dev/sda9	none		swap	sw				0 0
 /dev/sda6	/home		ext4	noatime,nodev,nosuid		1 2
 /dev/sda7	/home/downloads	ext4	noatime,nodev,nosuid,noexec	1 2
-/dev/sda8	/home/portdev/	ext4	noatime,nodev,nosuid		1 2
+/dev/sda8	/mnt/sda8/	ext4	noatime,nodev,nosuid		1 2
 #/dev/cdrom		/mnt/cdrom	auto		noauto,ro	0 0
 #/dev/fd0		/mnt/floppy	auto		noauto		0 0
 
