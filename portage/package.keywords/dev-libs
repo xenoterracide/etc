@@ -1,3 +1,4 @@
+dev-libs/iniparser
 dev-libs/boost
 dev-libs/libedit
 dev-libs/glib
