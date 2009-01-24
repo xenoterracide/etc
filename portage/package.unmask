@@ -1,7 +1,5 @@
+net-fs/samba
 media-sound/amarok
-virtual/xft
-dev-lang/perl
-sys-devel/libperl
 =sys-libs/glibc-2.9_p20081201-r1
 sys-apps/portage
 virtual/mysql
