@@ -14,11 +14,11 @@
 # <fs>			<mountpoint>	<type>		<opts>		<dump/pass>
 
 # NOTE: If your BOOT partition is ReiserFS, add the notail option to opts.
-/dev/sda3	/boot		ext3	noatime,noauto			1 2
-/dev/sda5	/		ext4	noatime				0 1
-none		/tmp		tmpfs	noatime,nodev,noexec,nosuid	0 0
-/dev/sda9	none		swap	sw				0 0
-/dev/sda6	/home		ext4	noatime,nodev,nosuid		1 2
+/dev/sda3	/boot	ext3	noatime,nodiratime,noauto		1 2
+/dev/sda5	/	ext4	noatime,nodiratime			0 1
+none		/tmp	tmpfs	noatime,nodiratime,nodev,noexec,nosuid	0 0
+/dev/sda9	none	swap	sw					0 0
+/dev/sda6	/home	ext4	noatime,nodiratime,nodev,nosuid		1 2
 /dev/sda7	/home/downloads	ext4	noatime,nodev,nosuid,noexec	1 2
 /dev/sda8	/mnt/sda8/	ext4	noatime,nodev,nosuid		1 2
 #/dev/cdrom		/mnt/cdrom	auto		noauto,ro	0 0
