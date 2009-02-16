@@ -9,4 +9,4 @@ CHECKVT=7
 # NOTE: If this is set in /etc/rc.conf, that setting will override this one.
 # KDE-specific note: kdm-3.5 and kdm-4.0 are just examples. You will find all 
 # possible versions by looking at the directories in /usr/kde/.
-DISPLAYMANAGER="kdm-4.1"
+DISPLAYMANAGER="kdm-4.2"

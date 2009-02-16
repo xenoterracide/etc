@@ -2,12 +2,14 @@
 # scripts in /etc/init.d.  To create a more complete configuration,
 # please review /etc/conf.d/net.example and save your configuration
 # in /etc/conf.d/net (this file :]!).
+
 modules_force=( "iproute2" "dhcpcd" )
+
 config_eth0=( "dhcp" )
 dhcp_eth0=( "release nodns nonis nontp nosendhost" )
-dns_servers_eth0=(
+dns_servers=(
 	"127.0.0.1 192.168.1.1
 	208.67.222.222 208.67.220.220
 	35.8.2.41 35.8.98.43"
 )
-fallback_eth0=( "192.168.61.210/24" )
+#fallback_eth0=( "192.168.61.210/24" )
