@@ -1,3 +1,5 @@
+sys-apps/module-init-tools
+sys-apps/usermode-utilities
 sys-apps/hal
 sys-apps/baselayout
 sys-apps/openrc

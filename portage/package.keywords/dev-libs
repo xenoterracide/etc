@@ -1,3 +1,5 @@
+dev-libs/libzip
+dev-libs/libical
 dev-libs/iniparser
 dev-libs/boost
 dev-libs/libedit

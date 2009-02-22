@@ -1,3 +1,4 @@
+sys-fs/fuse
 sys-fs/mdadm
 sys-fs/cryptsetup
 sys-fs/udev

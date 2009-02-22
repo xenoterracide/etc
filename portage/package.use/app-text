@@ -1,1 +1,2 @@
-app-text/poppler-bindings qt4
+app-text/djvu qt3
+app-text/poppler-bindings qt4 cairo

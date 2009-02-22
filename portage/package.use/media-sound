@@ -1,2 +1,3 @@
+media-sound/phonon -gstreamer
 media-sound/amarok -opengl mysql visualization cdaudio debug
 mdeia-sound/sox id3tag

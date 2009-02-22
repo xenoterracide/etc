@@ -1,1 +1,2 @@
+app-emulation/ies4linux gtk
 app-emulation/kvm -modules gnutls

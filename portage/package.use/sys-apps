@@ -1,3 +1,4 @@
+sys-apps/portage experimental-git
 sys-apps/parted device-mapper
 sys-apps/hal X acpi disk-partition
 sys-apps/dbus X

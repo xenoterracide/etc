@@ -1,2 +1,2 @@
-media-video/ffmpeg X
-media-video/mplayer srt
+media-video/ffmpeg X threads
+media-video/mplayer srt amrnb amrwb xanim rar md5sum rtc radio ggi

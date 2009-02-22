@@ -1,1 +1,1 @@
-dev-db/mysql-community embedded
+dev-db/mysql-community embedded innodb

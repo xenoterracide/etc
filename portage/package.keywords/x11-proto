@@ -1,3 +1,4 @@
+x11-proto/dri2proto
 x11-proto/renderproto
 x11-proto/randrproto
 x11-proto/xf86driproto
