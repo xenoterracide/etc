@@ -1,3 +1,5 @@
+media-libs/libtheora
+media-libs/alsa-lib
 media-libs/babl
 media-libs/gegl
 media-libs/x264

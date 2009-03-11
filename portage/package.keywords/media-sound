@@ -1,2 +1,4 @@
+media-sound/alsa-headers
+media-sound/alsa-utils
 media-sound/amarok **
 media-sound/phonon

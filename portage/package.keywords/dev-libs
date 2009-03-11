@@ -1,3 +1,5 @@
+dev-libs/redland
+dev-libs/rasqal
 dev-libs/libzip
 dev-libs/libical
 dev-libs/iniparser

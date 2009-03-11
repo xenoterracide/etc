@@ -1,3 +1,5 @@
+sys-apps/coreutils
+sys-apps/sandbox
 sys-apps/module-init-tools
 sys-apps/usermode-utilities
 sys-apps/hal

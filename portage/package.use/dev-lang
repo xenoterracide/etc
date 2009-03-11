@@ -1,1 +1,1 @@
-dev-lang/php suhosin apache2 hash mhash -cli
+dev-lang/php suhosin apache2 hash mhash -cli ctype
